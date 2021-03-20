@@ -1,3 +1,5 @@
 primo file da remoto 2
 modifica doc 2 
 modifica 3 da locale
+modifica 3 di conflitto da remoto
+conflitto risolto a mano
